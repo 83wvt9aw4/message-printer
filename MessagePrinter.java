@@ -1,7 +1,7 @@
 public class MessagePrinter {
 
     public static String getWelcomeMessage() {
-        return "Welcome to Git and GitHub!";
+        return "Hello! Welcome to Git and GitHub Tutorial!";
     }
 
     public static String getDateMessage() {
@@ -16,5 +16,6 @@ public class MessagePrinter {
         System.out.println(getWelcomeMessage());
         System.out.println(getDateMessage());
         System.out.println("Learning remote repositories!");
+        System.out.println(getGoodbyeMessage());
     }
 }
