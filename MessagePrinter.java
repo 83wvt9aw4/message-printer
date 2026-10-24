@@ -23,11 +23,8 @@ public class MessagePrinter {
     public static void main(String[] args) {
         System.out.println(getWelcomeMessage());
         System.out.println(getDateMessage());
-<<<<<<< HEAD
         System.out.println(getAuthorMessage());
-=======
         System.out.println(getTimeMessage());
->>>>>>> feature/add-time
         System.out.println("Learning remote repositories!");
         System.out.println(getGoodbyeMessage());
     }
